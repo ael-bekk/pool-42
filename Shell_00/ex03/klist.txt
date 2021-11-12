@@ -1,0 +1,6 @@
+Credentials cache: API:4311
+        Principal: ael-bekk@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 14:10:32 2021  Aug  3 00:10:32 2021  krbtgt/1337.MA@1337.MA
+Aug  2 14:10:35 2021  Aug  3 00:10:32 2021  HTTP/student-storage.1337.ma@1337.MA
